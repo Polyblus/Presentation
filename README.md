@@ -1,2 +1,0 @@
-# Presentation
-Infos about me.
